@@ -19,9 +19,9 @@
 </p>
 
 ## Overview <a name="overview"></a>
-PickRandomCards is a very simple but great way to start learning C#. This project demonstrates how to pick a random playing card from a standard deck of 52 cards 🃏.
+PickRandomCards is a very simple but great way to learn C#. This project demonstrates how to pick a random playing card from a standard deck of 52 cards 🃏.
 
-## Usage
+## Usage <a name="usage"></a>
 To start using this project, follow these steps:
 1. Start by downloading or cloning the repository to your local machine.
 2. Open the project in one of your preferred dev environments (e.g. <code>Visual Studio</code>).
@@ -29,10 +29,10 @@ To start using this project, follow these steps:
 4. The terminal will prompt, and you can enter the number of random cards you want to pick from the deck.
 5. The terminal will display the randomly selected cards.
 
-## Dependencies 
+## Dependencies <a name="dependencies"></a>
 This project is a standalone C# that uses the .NET framework.
 
-## Output 
+## Output <a name="output"></a>
 ![image](https://github.com/EfremMic/PickRandomCards/assets/100604322/c5ad1f86-84cf-4c83-a3d8-bd0095b672ca)
 
 
